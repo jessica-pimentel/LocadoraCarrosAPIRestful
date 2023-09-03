@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LocadoraCarros.Infra.IoC/1.0.0": {
+        "runtime": {
+          "LocadoraCarros.Infra.IoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocadoraCarros.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

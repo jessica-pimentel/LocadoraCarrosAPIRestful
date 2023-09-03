@@ -1,0 +1,12 @@
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\bin\Debug\net7.0\LocadoraCarros.Domain.deps.json
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\bin\Debug\net7.0\LocadoraCarros.Domain.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\bin\Debug\net7.0\LocadoraCarros.Domain.pdb
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\LocadoraCarros.Domain.csproj.AssemblyReference.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\LocadoraCarros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\LocadoraCarros.Domain.AssemblyInfoInputs.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\LocadoraCarros.Domain.AssemblyInfo.cs
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\LocadoraCarros.Domain.csproj.CoreCompileInputs.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\LocadoraCarros.Domain.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\refint\LocadoraCarros.Domain.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\LocadoraCarros.Domain.pdb
+C:\LocadoraCarrosAPI\LocadoraCarros.Domain\obj\Debug\net7.0\ref\LocadoraCarros.Domain.dll

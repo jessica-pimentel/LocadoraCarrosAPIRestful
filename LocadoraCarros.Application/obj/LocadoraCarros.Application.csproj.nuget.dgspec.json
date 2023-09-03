@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\LocadoraCarrosAPI\\LocadoraCarros.Application\\LocadoraCarros.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\LocadoraCarrosAPI\\LocadoraCarros.Application\\LocadoraCarros.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LocadoraCarrosAPI\\LocadoraCarros.Application\\LocadoraCarros.Application.csproj",
+        "projectName": "LocadoraCarros.Application",
+        "projectPath": "C:\\LocadoraCarrosAPI\\LocadoraCarros.Application\\LocadoraCarros.Application.csproj",
+        "packagesPath": "C:\\Users\\Jessica Pimentel\\.nuget\\packages\\",
+        "outputPath": "C:\\LocadoraCarrosAPI\\LocadoraCarros.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jessica Pimentel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\LocadoraCarrosAPI\\LocadoraCarros.Domain\\LocadoraCarros.Domain.csproj": {
+                "projectPath": "C:\\LocadoraCarrosAPI\\LocadoraCarros.Domain\\LocadoraCarros.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\LocadoraCarrosAPI\\LocadoraCarros.Domain\\LocadoraCarros.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LocadoraCarrosAPI\\LocadoraCarros.Domain\\LocadoraCarros.Domain.csproj",
+        "projectName": "LocadoraCarros.Domain",
+        "projectPath": "C:\\LocadoraCarrosAPI\\LocadoraCarros.Domain\\LocadoraCarros.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jessica Pimentel\\.nuget\\packages\\",
+        "outputPath": "C:\\LocadoraCarrosAPI\\LocadoraCarros.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jessica Pimentel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

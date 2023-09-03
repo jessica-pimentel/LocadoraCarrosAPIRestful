@@ -1,0 +1,12 @@
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\bin\Debug\net7.0\LocadoraCarros.Application.deps.json
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\bin\Debug\net7.0\LocadoraCarros.Application.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\bin\Debug\net7.0\LocadoraCarros.Application.pdb
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\LocadoraCarros.Application.csproj.AssemblyReference.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\LocadoraCarros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\LocadoraCarros.Application.AssemblyInfoInputs.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\LocadoraCarros.Application.AssemblyInfo.cs
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\LocadoraCarros.Application.csproj.CoreCompileInputs.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\LocadoraCarros.Application.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\refint\LocadoraCarros.Application.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\LocadoraCarros.Application.pdb
+C:\LocadoraCarrosAPI\LocadoraCarros.Application\obj\Debug\net7.0\ref\LocadoraCarros.Application.dll

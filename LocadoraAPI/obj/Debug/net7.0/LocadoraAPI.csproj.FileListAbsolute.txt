@@ -1,0 +1,15 @@
+C:\LocadoraCarrosAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.exe
+C:\LocadoraCarrosAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\LocadoraCarrosAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\LocadoraCarrosAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.dll
+C:\LocadoraCarrosAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.dll
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\LocadoraCarrosAPI\LocadoraAPI\obj\Debug\net7.0\ref\LocadoraAPI.dll

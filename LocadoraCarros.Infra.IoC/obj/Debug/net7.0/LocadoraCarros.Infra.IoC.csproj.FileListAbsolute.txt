@@ -1,0 +1,12 @@
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\bin\Debug\net7.0\LocadoraCarros.Infra.IoC.deps.json
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\bin\Debug\net7.0\LocadoraCarros.Infra.IoC.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\bin\Debug\net7.0\LocadoraCarros.Infra.IoC.pdb
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\LocadoraCarros.Infra.IoC.csproj.AssemblyReference.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\LocadoraCarros.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\LocadoraCarros.Infra.IoC.AssemblyInfoInputs.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\LocadoraCarros.Infra.IoC.AssemblyInfo.cs
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\LocadoraCarros.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\LocadoraCarros.Infra.IoC.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\refint\LocadoraCarros.Infra.IoC.dll
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\LocadoraCarros.Infra.IoC.pdb
+C:\LocadoraCarrosAPI\LocadoraCarros.Infra.IoC\obj\Debug\net7.0\ref\LocadoraCarros.Infra.IoC.dll
